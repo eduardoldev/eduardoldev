@@ -10,6 +10,10 @@
 
 ##
 
+#### Estatísticas:
+*Repositorios privados tambem estão inclusos*
+[<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=eduardoldev&amp;theme=radical"/>](https://github.com/)
+
 #### Tenho experiencia com:
 [<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
@@ -40,7 +44,3 @@
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/eduardolimaco)
 
 ##
-
-#### Estatísticas:
-
-[<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=eduardoldev&amp;theme=radical"/>](https://github.com/)

@@ -6,7 +6,7 @@
 - 🔰 Sou de Itu/SP, Brasil.
 - ⚡ Apaixonado por jogos e tecnologia.
 - 🧠 Sou Formado em Análise e Desenvolvimento de Sistemas pelo CEUNSP.
-- 🏦 Atualmente trabalho como Desenvolvedor de microcontroladores e mobile na Inovacode RFID Solutions, uma empresa de soluções RFID com sede em São Paulo/SP.
+- 🏦 Atualmente trabalho como desenvolvedor de microcontroladores e mobile na Inovacode RFID Solutions, uma empresa de soluções RFID com sede em São Paulo/SP.
 
 ##
 

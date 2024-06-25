@@ -2,12 +2,6 @@
 
 ## Olá, meu nome é Eduardo! 👋
 ### seja bem-vindo ao meu perfil no GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
-
-- 🔰 Sou de Itu/SP, Brasil.
-- ⚡ Apaixonado por jogos e tecnologia.
-- 🧠 Sou Formado em Análise e Desenvolvimento de Sistemas pelo CEUNSP.
-- 🏦 Atualmente trabalho como desenvolvedor de microcontroladores e mobile na Inovacode RFID Solutions, uma empresa de soluções RFID com sede em São Paulo/SP.
-
 ##
 
 #### Estatísticas: *Repositorios privados tambem estão inclusos*
